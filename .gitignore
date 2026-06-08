@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Environment Variables
+.env
+
+# Build files
+build/
+dist/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Model files (if large)
+*.h5
+*.pt
+*.pth
+*.pkl
+
+# Screenshots
+screenshots/
