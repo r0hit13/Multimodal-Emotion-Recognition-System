@@ -1,22 +1,22 @@
  Multimodal Emotion Recognition System
 
-# Overview :
+# Overview 
 This project is a real-time Multimodal Emotion Recognition System that detects emotions using facial expressions and speech analysis.
 
-# Features :
+# Features 
 - Real-time emotion detection
 - Facial emotion recognition
 - Speech emotion recognition
 - Webcam support
 - Machine Learning based prediction
 
-# Technologies Used :
+# Technologies Used 
 - Python
 - OpenCV
 - NumPy
 - Machine Learning
 
-# Project Structure :
+# Project Structure 
 ```
 edr_live/
 ├── main.py
@@ -27,9 +27,9 @@ edr_live/
 └── screenshots/
 ```
 
-# Authors :
+# Authors 
 - Rohit Kumar Ram (22SCSE1012599)
 - Md Adil (22SCSE1012699)
 
-# College :
+# College 
 Galgotias University, Greater Noida
