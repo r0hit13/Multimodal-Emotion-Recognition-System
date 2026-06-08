@@ -33,3 +33,7 @@ edr_live/
 
 # College 
 Galgotias University, Greater Noida
+
+# How to Run
+1. Clone the repository
+2. install dependencies
